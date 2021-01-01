@@ -1,0 +1,25 @@
+body{
+ color : lightgoldenrodyellow;
+ background-color : lightgray;
+}
+h1{
+ background-color : lightgreen;
+ width : 900px;
+}
+b{
+ font-size : 20px;
+}
+p{
+ font-size : 20px;
+}
+div{
+ font-size : 30px;
+}
+#camera, #photo{
+ border : 5px ridge lightgrey;
+ width : 300px;
+ height : 300px;
+}
+#gesture_name, #gesture_emoji{
+ color : lightpink;
+}
